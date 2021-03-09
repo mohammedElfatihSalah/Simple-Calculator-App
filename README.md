@@ -4,7 +4,7 @@ a simple flutter application, with an awesome UI Design.
 ## Getting Started
 
 This project is a starting point for a more advanced calculator app.
-<img src='https://github.com/mohammedElfatihSalah/Simple-Calculator-App/blob/master/Screenshot_20210309_093821_com.example.flutter_app_cal.jpg?raw=true' width=100 height=100 />
+<img src='https://github.com/mohammedElfatihSalah/Simple-Calculator-App/blob/master/Screenshot_20210309_093821_com.example.flutter_app_cal.jpg?raw=true' width=200 height=400 />
 
 
 A few resources to get you started if this is your first Flutter project:
