@@ -1,10 +1,9 @@
-# flutter_app_cal
-
-A new Flutter application.
+# Simple Calculator
+a simple flutter application, with an awesome UI Design.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a more advanced calculator app.
 
 A few resources to get you started if this is your first Flutter project:
 
